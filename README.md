@@ -1,6 +1,3 @@
-# Websites
-
-<!DOCTYPE html>
 <html>
 <head>
 	<title>About Me</title>
